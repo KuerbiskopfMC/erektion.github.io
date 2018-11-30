@@ -1773,6 +1773,14 @@ body {
 .cid-r96wPjjdui .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-raVaN6YNI5 {
+  padding-top: 120px;
+  padding-bottom: 30px;
+  background: linear-gradient(45deg, #073b4c, #0082fd);
+}
+.cid-raVaN6YNI5 .btn {
+  margin: 0 0 .5rem 0;
+}
 .cid-r96xuntI7C {
   background-image: url("../../../assets/images/anime-creature-fighting-4k-1920x1080.jpg");
 }
